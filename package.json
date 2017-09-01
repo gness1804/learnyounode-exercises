@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Tutorials from Nodeschool",
+  "main": "baby-steps.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.5.0"
+  }
+}
