@@ -1,0 +1,3 @@
+Hello, I am the file to be examined.
+I am a new line.
+I am yet another new line.
